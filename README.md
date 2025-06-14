@@ -1,12 +1,12 @@
-
 # 👋 Olá! Eu sou o Luiz Henrique Pereira
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Uniasselvi  
 🚀 Em transição de carreira – de açougueiro para desenvolvedor Java  
-💻 Atualmente focado no bootcamp [Santander 2024 - Backend com Java (DIO)](https://www.dio.me/bootcamp)  
+💻 Atualmente focado no bootcamp (DIO)](https://www.dio.me/bootcamp)  
 🌱 Aprendendo Java, Spring Boot, Git/GitHub e fundamentos de backend  
+🌍 Idiomas: Inglês (básico), Espanhol (básico)  
 📍 Rodeio - SC | Brasil  
-📫 Contato: pereiraluiz69@gmail.com  
+📫 Contato: pereiraluiz69@gmail.com 
 
 ---
 
