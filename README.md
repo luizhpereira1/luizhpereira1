@@ -21,18 +21,6 @@
 
 ---
 
-### 📘 Projetos em desenvolvimento
-
-- 📦 **Cadastro de Produtos com Java Console**  
-  Projeto simples para praticar orientação a objetos e estruturas básicas em Java.
-
-- 💼 **Sistema de Gerenciamento de Funcionários**  
-  Em construção. Projeto backend com Java + Spring.
-
-*(Mais projetos em breve...)*
-
----
-
 ### 📈 GitHub Stats
 
 ![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizhpereira1&show_icons=true&theme=tokyonight)
